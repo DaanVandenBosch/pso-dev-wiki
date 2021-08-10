@@ -1,2 +1,3 @@
-# pso-dev-wiki
-Phantasy Star Online Developer's Wiki
+# Phantasy Star Online Developer's Wiki
+
+See the [wiki](/wiki).
